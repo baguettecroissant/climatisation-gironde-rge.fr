@@ -4,7 +4,7 @@
  */
 
 // ── Site-specific config (change per R&R site) ──
-const SITE_DOMAIN = 'climatisation-gironde.fr';
+const SITE_DOMAIN = 'climatisation-gironde-rge.fr';
 const SITE_NICHE = 'climatisation';
 const DEPT_CODE = '33';
 const CP_PATTERN = /^33\d{3}$/;

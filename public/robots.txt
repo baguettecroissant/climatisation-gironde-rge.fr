@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://climatisation-gironde.fr/sitemap-index.xml
+Sitemap: https://climatisation-gironde-rge.fr/sitemap-index.xml

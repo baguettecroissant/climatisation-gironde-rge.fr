@@ -4,7 +4,7 @@ import cloudflare from '@astrojs/cloudflare';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://climatisation-gironde.fr',
+  site: 'https://climatisation-gironde-rge.fr',
   output: 'static',
   adapter: cloudflare({
     imageService: 'passthrough',
